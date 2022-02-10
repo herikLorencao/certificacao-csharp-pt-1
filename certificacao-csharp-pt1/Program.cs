@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace certificacao_csharp_roteiro
 {
@@ -72,7 +69,7 @@ namespace certificacao_csharp_roteiro
             {
                 new MenuItem("Tipos de Valor", typeof(TiposDeValor)),
                 new MenuItem("Tipos Inteiros", typeof(TiposInteiros)),
-                new MenuItem("Ponto Flututante", typeof(PontoFlutuante)),
+                new MenuItem("Tipos Ponto Flutuante", typeof(PontoFlutuante)),
                 new MenuItem("Decimal", typeof(Decimal)),
                 new MenuItem("Booleanos", typeof(Booleanos)),
                 new MenuItem("Estruturas", typeof(Estruturas)),
