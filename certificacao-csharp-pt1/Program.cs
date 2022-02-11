@@ -7,6 +7,10 @@ using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._4___Delega
 using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._5___Objetos;
 using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._6___Dinamicos;
 using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._7___Strings;
+using certificacao_csharp_roteiro.Aula3___classes__métodos__métodos_de_extensão._2___Métodos;
+using certificacao_csharp_roteiro.Aula3___classes__métodos__métodos_de_extensão.Métodos_de_Extensão;
+using certificacao_csharp_roteiro.Aula3___classes__métodos__métodos_de_extensão.Parâmetros_Nomeados;
+using certificacao_csharp_roteiro.Aula3___classes__métodos__métodos_de_extensão.Propriedades_Indexadas;
 
 namespace certificacao_csharp_roteiro
 {
@@ -88,11 +92,11 @@ namespace certificacao_csharp_roteiro
                 new MenuItem("Objetos", typeof(Objetos)),
                 new MenuItem("Dinâmicos", typeof(Dinamicos)),
                 new MenuItem("Strings", typeof(Strings)),
-                //new MenuItem("Metodos", typeof(Metodos)),
-                //new MenuItem("Parâmetros Nomeados", typeof(ParametrosNomeados)),
-                //new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),
-                //new MenuItem("Métodos de Extensão", typeof(MetodosDeExtensao)),
-                //new MenuItem("Propriedades Indexadas", typeof(PropriedadesIndexadas)),
+                new MenuItem("Metodos", typeof(Metodos)),
+                new MenuItem("Parâmetros Nomeados", typeof(ParametrosNomeados)),
+                new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),
+                new MenuItem("Métodos de Extensão", typeof(MetodosDeExtensao)),
+                new MenuItem("Propriedades Indexadas", typeof(PropriedadesIndexadas)),
                 //new MenuItem("Sobrecargas", typeof(Sobrecargas)),
                 //new MenuItem("Métodos Substituidos", typeof(MetodosSubstituidos)),
                 //new MenuItem("Boxing", typeof(Boxing)),
