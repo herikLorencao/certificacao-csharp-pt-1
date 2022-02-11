@@ -11,6 +11,7 @@ using certificacao_csharp_roteiro.Aula3___classes__métodos__métodos_de_extens�
 using certificacao_csharp_roteiro.Aula3___classes__métodos__métodos_de_extensão.Métodos_de_Extensão;
 using certificacao_csharp_roteiro.Aula3___classes__métodos__métodos_de_extensão.Parâmetros_Nomeados;
 using certificacao_csharp_roteiro.Aula3___classes__métodos__métodos_de_extensão.Propriedades_Indexadas;
+using certificacao_csharp_roteiro.Aula4___criar_métodos_sobrecarregados_e_substituídos;
 
 namespace certificacao_csharp_roteiro
 {
@@ -97,7 +98,7 @@ namespace certificacao_csharp_roteiro
                 new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),
                 new MenuItem("Métodos de Extensão", typeof(MetodosDeExtensao)),
                 new MenuItem("Propriedades Indexadas", typeof(PropriedadesIndexadas)),
-                //new MenuItem("Sobrecargas", typeof(Sobrecargas)),
+                new MenuItem("Sobrecargas", typeof(Sobrecargas)),
                 //new MenuItem("Métodos Substituidos", typeof(MetodosSubstituidos)),
                 //new MenuItem("Boxing", typeof(Boxing)),
                 //new MenuItem("Unboxing", typeof(Unboxing)),
