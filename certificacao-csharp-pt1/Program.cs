@@ -1,5 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._1___Tipos_de_Referência;
+using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._2___Classes;
+using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._3___Interfaces;
+using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._4___Delegates;
+using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._5___Objetos;
+using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._6___Dinamicos;
+using certificacao_csharp_roteiro.Aula2___criar_tipos_de_referência._7___Strings;
 
 namespace certificacao_csharp_roteiro
 {
@@ -74,13 +81,13 @@ namespace certificacao_csharp_roteiro
                 new MenuItem("Booleanos", typeof(Booleanos)),
                 new MenuItem("Estruturas", typeof(Estruturas)),
                 new MenuItem("Enumeracoes", typeof(Enumeracoes)),
-                //new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
-                //new MenuItem("Classes", typeof(Classes)),
-                //new MenuItem("Interfaces", typeof(Interfaces)),
-                //new MenuItem("Delegates", typeof(Delegates)),
-                //new MenuItem("Objetos", typeof(Objetos)),
-                //new MenuItem("Dinâmicos", typeof(Dinamicos)),
-                //new MenuItem("Strings", typeof(Strings)),
+                new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
+                new MenuItem("Classes", typeof(Classes)),
+                new MenuItem("Interfaces", typeof(Interfaces)),
+                new MenuItem("Delegates", typeof(Delegates)),
+                new MenuItem("Objetos", typeof(Objetos)),
+                new MenuItem("Dinâmicos", typeof(Dinamicos)),
+                new MenuItem("Strings", typeof(Strings)),
                 //new MenuItem("Metodos", typeof(Metodos)),
                 //new MenuItem("Parâmetros Nomeados", typeof(ParametrosNomeados)),
                 //new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),
