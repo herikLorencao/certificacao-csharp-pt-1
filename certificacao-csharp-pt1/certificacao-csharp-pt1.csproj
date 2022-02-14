@@ -73,7 +73,8 @@
     <Compile Include="Aula3 - classes, métodos, métodos de extensão\Parâmetros Nomeados\ParametrosNomeados.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de extensão\Parâmetros Nomeados\ParametrosOpcionais.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de extensão\Propriedades Indexadas\PropriedadesIndexadas.cs" />
-    <Compile Include="Aula4 - criar métodos sobrecarregados e substituídos\Sobrecargas.cs" />
+    <Compile Include="Aula4 - criar métodos sobrecarregados e substituídos\1 - Sobrecargas\Sobrecargas.cs" />
+    <Compile Include="Aula4 - criar métodos sobrecarregados e substituídos\2 - Métodos Substituídos\MetodosSubstituidos.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
